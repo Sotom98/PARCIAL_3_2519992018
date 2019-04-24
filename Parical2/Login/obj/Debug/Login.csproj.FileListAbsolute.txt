@@ -1,0 +1,14 @@
+C:\Users\Lab3\Desktop\Parical2\Login\bin\Debug\Login.exe.config
+C:\Users\Lab3\Desktop\Parical2\Login\bin\Debug\Login.exe
+C:\Users\Lab3\Desktop\Parical2\Login\bin\Debug\Login.pdb
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.exe
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.pdb
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.Form1.resources
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.Formulario2.resources
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.Datos.resources
+C:\Users\Lab3\Desktop\Parical2\Login\obj\Debug\Login.Porcentaje.resources
+C:\Users\Lab3\Desktop\Parical2\Login\bin\Debug\Clases.dll
+C:\Users\Lab3\Desktop\Parical2\Login\bin\Debug\Clases.pdb

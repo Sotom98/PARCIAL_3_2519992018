@@ -1,0 +1,4 @@
+C:\Users\Lab3\Desktop\Parical2\Clases\bin\Debug\Clases.dll
+C:\Users\Lab3\Desktop\Parical2\Clases\bin\Debug\Clases.pdb
+C:\Users\Lab3\Desktop\Parical2\Clases\obj\Debug\Clases.dll
+C:\Users\Lab3\Desktop\Parical2\Clases\obj\Debug\Clases.pdb
